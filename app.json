@@ -1,6 +1,6 @@
 {
     
-    "name": "Atlas-MD",
+    "name": "Dark-Alfa-MD",
     "description": "The Future of WhatsApp bots.",
     "keywords": [
         "bot",
@@ -17,7 +17,7 @@
     ],
     "website": "https://github.com/FantoX001/Atlas-MD#readme",
     "repository": "https://github.com/FantoX001/Atlas-MD.git",
-    "logo": "https://i.imgur.com/MClOeqe.jpeg",
+    "logo": "https://i.ibb.co/xYg0JXZ/20230309-231702.jpg",
     "success_url": "/",
     "env": {
         "PREFIX": {
